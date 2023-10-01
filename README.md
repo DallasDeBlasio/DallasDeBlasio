@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DallasDeBlasio
 - 👀 I’m interested in ... Coding and tennis
-- 🌱 I’m currently learning ... loops
+- 🌱 I’m currently learning ... C and C#
 - 💞️ I’m looking to collaborate on ... anything that I am capiable of
 - 📫 How to reach me ... dallasdeblasio@wsu.edu
 
